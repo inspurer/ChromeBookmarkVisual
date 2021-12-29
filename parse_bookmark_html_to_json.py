@@ -35,8 +35,8 @@ bookmark_map_json = {
 }
 root = html.xpath('//dl[1]/dl[1]')[0]
 
-exclude_collection = ['编程', '算法', '网课', '杂', '快酷', '开发者信息中心']
-# exclude_collection = ['杂', '算法', '网课', '博客']
+exclude_collection = []
+
 
 
 def parse_html_recursive(root_html):
