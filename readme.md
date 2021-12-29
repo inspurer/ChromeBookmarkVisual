@@ -31,13 +31,15 @@ python 3.6.6 及 python3.6.6+
 
 5.  在浏览器中打开 `tree-radial.html`，即可看到可视化效果，并可点击叶子节点
 
+过程可以参考B站对应视频：[Chrome 浏览器书签层次可视化
+](https://www.bilibili.com/video/BV1JY411p7f2)
 
 ## 个性配置
 
 1. 可在 `parse_bookmark_html_to_json.py` 文件中 `exclude_collection` 变量中添加不需要可视化的根书签收藏夹。
 
 2. 可在 `tree-radial.html` 中 `myChart.setOption` 设置图表样式，如 `layout = orthogonal` 可设置成层次树状图，
-   `initialTreeDepth` 可以设置初始最大几层。
+   `initialTreeDepth` 可以设置初始最大层数。
 
 
 ## 参考
