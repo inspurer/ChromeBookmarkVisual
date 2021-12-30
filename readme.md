@@ -7,6 +7,12 @@ as well as FireFox, Microsoft Edge
 完成这个 mini-project 的初衷是书签太多，层次深，无法直观触达
 故可视化之，项目的**叶子节点可以直接点击打开书签**。
 
+## Chrome 扩展
+
+对应的 chrome 扩展已上线 Chrome 应用商店，体验地址，求个好评
+
+[https://chrome.google.com/webstore/detail/bookmarktree/obhnldggnjdmbmidjkjjnlclooehbngf?hl=zh-CN](https://chrome.google.com/webstore/detail/bookmarktree/obhnldggnjdmbmidjkjjnlclooehbngf?hl=zh-CN)
+
 ## 可视化效果
 
 全景图: 
