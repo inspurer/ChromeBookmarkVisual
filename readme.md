@@ -35,7 +35,7 @@ python 3.6.6 及 python3.6.6+
 
 4.  运行 `parse_bookmark_html_to_json.py` 得到 `bookmarks.json`
 
-5.  在浏览器中打开 `tree-radial.html`，即可看到可视化效果，并可点击叶子节点
+5.  在 Pycharm 中选择浏览器打开 `tree-radial.html`，即可看到可视化效果，并可点击叶子节点；**注意不要直接在文件夹中打开这个 html，会被 CROS 拦住 json 文件无法加载**
 
 过程可以参考B站对应视频：[Chrome 浏览器书签层次可视化
 ](https://www.bilibili.com/video/BV1JY411p7f2)
