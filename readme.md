@@ -9,9 +9,11 @@ as well as FireFox, Microsoft Edge
 
 ## Chrome 扩展
 
-对应的 chrome 扩展已上线 Chrome 应用商店，体验地址，求个好评
+对应的 chrome 扩展已上线 Chrome 应用商店，在线安装即可，无需配置，体验地址，求个好评
 
 [https://chrome.google.com/webstore/detail/bookmarktree/obhnldggnjdmbmidjkjjnlclooehbngf?hl=zh-CN](https://chrome.google.com/webstore/detail/bookmarktree/obhnldggnjdmbmidjkjjnlclooehbngf?hl=zh-CN)
+
+**插件的源代码在本项目的 chrome-extension-src 文件夹下**
 
 ## 可视化效果
 

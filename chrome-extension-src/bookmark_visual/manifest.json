@@ -1,0 +1,33 @@
+{
+	"manifest_version": 2,
+	"name": "BookmarkTree",
+	"version": "1.0.0",
+	"description": "将书签可视化为径向树状图，方便直观快速查阅书签",
+	"icons": {
+		"16": "img/icon.png",
+		"48": "img/icon.png",
+		"128": "img/icon.png"
+	},
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	},
+	"browser_action": {
+		"default_icon": "img/icon.png",
+		"default_title": "书签可视化树",
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"bookmarks"
+	],
+	"homepage_url": "https://github.com/inspurer",
+	"options_page": "options.html",
+	"options_ui": {
+		"page": "popup.html",
+		"chrome_style": true
+	},
+	"omnibox": {
+		"keyword": "bookmark_tree"
+	}
+}
